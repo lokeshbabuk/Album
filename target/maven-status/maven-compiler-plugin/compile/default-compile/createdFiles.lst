@@ -1,0 +1,4 @@
+com\album\application\dao\AlbumRepository.class
+com\album\application\dao\AlbumController.class
+com\album\application\dao\Album.class
+com\album\application\AlbumApplication.class
